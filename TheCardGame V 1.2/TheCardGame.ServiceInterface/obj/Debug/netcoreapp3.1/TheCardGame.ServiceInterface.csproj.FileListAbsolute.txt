@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\bin\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.deps.json
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\bin\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.dll
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\bin\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.pdb
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\bin\Debug\netcoreapp3.1\TheCardGame.Models.dll
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\bin\Debug\netcoreapp3.1\TheCardGame.Models.pdb
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\obj\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\obj\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\obj\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.AssemblyInfo.cs
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\obj\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\obj\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.csproj.CopyComplete
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\obj\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.dll
+C:\Users\HP\source\repos\TheCardGame.ServiceInterface\obj\Debug\netcoreapp3.1\TheCardGame.ServiceInterface.pdb

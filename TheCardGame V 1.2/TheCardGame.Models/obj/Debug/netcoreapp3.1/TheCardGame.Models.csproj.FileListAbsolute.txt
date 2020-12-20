@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\TheCardGame.Models\bin\Debug\netcoreapp3.1\TheCardGame.Models.deps.json
+C:\Users\HP\source\repos\TheCardGame.Models\bin\Debug\netcoreapp3.1\TheCardGame.Models.dll
+C:\Users\HP\source\repos\TheCardGame.Models\bin\Debug\netcoreapp3.1\TheCardGame.Models.pdb
+C:\Users\HP\source\repos\TheCardGame.Models\obj\Debug\netcoreapp3.1\TheCardGame.Models.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TheCardGame.Models\obj\Debug\netcoreapp3.1\TheCardGame.Models.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TheCardGame.Models\obj\Debug\netcoreapp3.1\TheCardGame.Models.AssemblyInfo.cs
+C:\Users\HP\source\repos\TheCardGame.Models\obj\Debug\netcoreapp3.1\TheCardGame.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TheCardGame.Models\obj\Debug\netcoreapp3.1\TheCardGame.Models.dll
+C:\Users\HP\source\repos\TheCardGame.Models\obj\Debug\netcoreapp3.1\TheCardGame.Models.pdb
